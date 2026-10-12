@@ -1,0 +1,9 @@
+# Smart Calculator - C++
+A simple console based calculator for basic arithmetic operations (+, -, *, /)
+
+Language: C++ 
+Created by: M. Ismail Afridi
+
+How to run:
+g++ calculator.cpp -o calculator
+./calculator
